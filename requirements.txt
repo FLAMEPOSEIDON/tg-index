@@ -2,3 +2,4 @@ aiohttp
 aiohttp-jinja2
 git+https://github.com/LonamiWebs/Telethon.git
 cryptg
+git+git://github.com/pyrogram/pyrogram@asyncio-dev#pyrogram
